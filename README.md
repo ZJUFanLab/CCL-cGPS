@@ -88,6 +88,13 @@ For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic c
   - Mixed ([UCEC](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA))): `HEC-265`
   - Uterine carcinosarcoma ([UCS](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA))): `EFE-184`, `KLE`, `MFE-280`
 
+# Download
+- Basic intormation of cancer cell lines in ([CCLE](https://portals.broadinstitute.org/ccle)) and tumor patients in ([TCGA](https://portal.gdc.cancer.gov/)) can be downloaded in[`data/`](https://github.com/ZJUFanLab/CCL-cGPS/tree/master/data) 
+- Gene expression profiles of cancer cell lines and tumor patients can be downloaded in the [release](https://github.com/ZJUFanLab/CCL-cGPS/releases) page.
+- Similarity ranking of cell lines for each tumor subtype based on Kolmogorov-Smirnov statistic can be downloaded in in[`R/`](https://github.com/ZJUFanLab/CCL-cGPS/tree/master/R)
+
+
+
 # About
 
 CCL-cGPS manuscript is under review. For more information, please visit our website [tcm.zju.edu.cn/cgps](http://tcm.zju.edu.cn/cgps/). Should you have any questions, please contact Xin Shao at xin_shao@zju.edu.cn
