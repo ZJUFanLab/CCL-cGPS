@@ -7,7 +7,7 @@ Selecting appropriate cell lines to represent a disease is crucial for the succe
 <img src='https://github.com/ZJUFanLab/CCL-cGPS/blob/master/img/tumor.png' width = "600" height = "600"> 
 
 # Detail
-For each tumor subtype, we suggest several cancer cell lines that mimic clinical tumor patients.
+For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic clinical tumor patients.
 
 - __Bladder cancer__ ([BLCA](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
   - Non-papillary: `SCaBER`, `HT-1197`, `UM-UC-3`, `SW-1710`, `VM-CUB1`
