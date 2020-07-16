@@ -11,24 +11,24 @@ Selecting appropriate cell lines to represent a disease is crucial for the succe
 For each tumor subtype, we suggest several cancer cell lines that mimic clinical tumor patients.
 
 - __Bladder cancer__
-- - Non-papillary: `SCaBER`, `HT-1197`, `UM-UC-3`, `SW-1710`, `VM-CUB1`
-- - Papillary: `RT4`, `VM-CUB1`, `RT112_84`, `SW_780`
+  - Non-papillary: `SCaBER`, `HT-1197`, `UM-UC-3`, `SW-1710`, `VM-CUB1`
+  - Papillary: `RT4`, `VM-CUB1`, `RT112_84`, `SW_780`
 
 - __Breast cancer__
-- - Infiltrating ductal: `HCC2218`, `HCC1428`, `HCC2157`, `HCC1599`, `ZR-75-30`
-- - Infiltrating lobular: `UACC-812`, `CAL-148`, `YMB-1`, `ZR-75-1`, `ZR-75-30`
-- - ER+: `HCC2218`, `HCC1428`, `ZR-75-30`, `MDA-MB-134-VI`, `CAL-148`
-- - HER2+: `SK-BR-3`, `HCC202`
-- - Triple negative: `HCC1599`, `HCC2157`, `HCC1569`, `CAL-85-1`, `HCC1143`
+  - Infiltrating ductal: `HCC2218`, `HCC1428`, `HCC2157`, `HCC1599`, `ZR-75-30`
+  - Infiltrating lobular: `UACC-812`, `CAL-148`, `YMB-1`, `ZR-75-1`, `ZR-75-30`
+  - ER+: `HCC2218`, `HCC1428`, `ZR-75-30`, `MDA-MB-134-VI`, `CAL-148`
+  - HER2+: `SK-BR-3`, `HCC202`
+  - Triple negative: `HCC1599`, `HCC2157`, `HCC1569`, `CAL-85-1`, `HCC1143`
 
 - __Bile duct cancer__
 - - Intrahepatic: `SNU-245`
 
 - __Colorectal cancer__
-- - Colon adenocarcinoma: `NCI-H747`, `LS123`, `SW1417`, `RCM-1`, `C2BBe1`
-- - Colon mucinous adenocarcinoma: `CL-11`, `Hs_675_T`, `MDST8`
-- - Rectal adenocarcinoma: `NCI-H747`, `SW1417`, `COLO-678`, `SW1463`, `RCM-1`
-- - KRAS mutated: `HCC-56`, `LS123`, `SW1463`, `SW948`, `COLO-678`
+  - Colon adenocarcinoma: `NCI-H747`, `LS123`, `SW1417`, `RCM-1`, `C2BBe1`
+  - Colon mucinous adenocarcinoma: `CL-11`, `Hs_675_T`, `MDST8`
+  - Rectal adenocarcinoma: `NCI-H747`, `SW1417`, `COLO-678`, `SW1463`, `RCM-1`
+  - KRAS mutated: `HCC-56`, `LS123`, `SW1463`, `SW948`, `COLO-678`
 
 - __Esophagus cancer__
 - - Esophagus adenocarcinoma: `OE19`, `KYSE-270`, `OE33`, `TE-1`
