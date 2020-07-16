@@ -18,7 +18,7 @@ For each tumor subtype, we suggest several cancer cell lines that mimic clinical
   - Infiltrating ductal: `HCC2218`, `HCC1428`, `HCC2157`, `HCC1599`, `ZR-75-30`
   - Infiltrating lobular: `UACC-812`, `CAL-148`, `YMB-1`, `ZR-75-1`, `ZR-75-30`
   - ER+: `HCC2218`, `HCC1428`, `ZR-75-30`, `MDA-MB-134-VI`, `CAL-148`
-  - HER2+: `SK-BR-3(commonly-used)`, `HCC202`
+  - HER2+: [`SK-BR-3 (commonly-used)`](), `HCC202`
   - Triple negative: `HCC1599`, `HCC2157`, `HCC1569`, `CAL-85-1`, `HCC1143`
 
 - __Bile duct cancer__ ([CHOL]())
@@ -27,11 +27,11 @@ For each tumor subtype, we suggest several cancer cell lines that mimic clinical
 - __Colorectal cancer__ ([COADREAD]())
   - Colon adenocarcinoma ([COAD]()): `NCI-H747`, `LS123`, `SW1417`, `RCM-1`, `C2BBe1`
   - Colon mucinous adenocarcinoma: `CL-11`, `Hs_675_T`, `MDST8`
-  - Rectal adenocarcinoma ([READ](): `NCI-H747`, `SW1417`, `COLO-678`, `SW1463`, `RCM-1`
+  - Rectal adenocarcinoma ([READ](): `NCI-H747`, `SW1417`, `COLO-678`, `SW1463`, [`RCM-1` (commonly-used)]()
   - KRAS mutated: `HCC-56`, `LS123`, `SW1463`, `SW948`, `COLO-678`
 
 - __Esophagus cancer__ ([ESCA]())
-  - Esophagus adenocarcinoma: `OE19`, `KYSE-270`, `OE33`, `TE-1`
+  - Esophagus adenocarcinoma: `OE19`, `KYSE-270`, [`OE33` (commonly-used)](), `TE-1`
   - Esophagus squamous cell carcinoma: `COLO-680N`, `KYSE-140`, `TE-9`, `T_T`
 
 - __Glioma__
@@ -46,10 +46,10 @@ For each tumor subtype, we suggest several cancer cell lines that mimic clinical
 - __Kidney cancer__
   - Kidney chromophobe ([KICH]()): `KMRC-3`, `SNU-349`, `VMRC-RCW`, `ACHN`
   - Kidney renal clear cell carcinoma ([KIRC]()): `A-704`, `KMRC-3`, `SNU-349`, `OSRC2`, `TUHR4TKB`
-  - Kidney renal papillary cell carcinoma ([KIRP]()): `A-704`, `Caki-1`, `VMRC-RCW`, `ACHN`, `OSRC2`
+  - Kidney renal papillary cell carcinoma ([KIRP]()): `A-704`, `Caki-1`, `VMRC-RCW`, [`ACHN` (commonly-used)](), `OSRC2`
 
 - __Liver cancer__
-  - Liver hepatocellular carcinoma (LIHC): `SNU-449`, `SNU-878`, `Alexander_cells`, `SK-HEP-1`, `JHH-1`
+  - Liver hepatocellular carcinoma ([LIHC]()): `SNU-449`, `SNU-878`, `Alexander_cells`, `SK-HEP-1`, `JHH-1`
 
 - __Lung cancer__
   - Lung adenocarcinoma ([LUAD]()): `NCI-H1869`, `Sq-1`, `NCI-H2444`, `KNS-62`, `NCI-H1944`
@@ -61,15 +61,33 @@ For each tumor subtype, we suggest several cancer cell lines that mimic clinical
   - Epithelioid: `JL-1`, `IST-MES1`
   - Biphasic: `NCI-H2052`
 
+- __Ovarian cancer__ ([OV]())
+  - OV: `OVSAHO`, `JHOS-2`, `COV362`, `KURAMOCHI`, `OAW28`
 
+- __Pancreatic cancer__ ([PAAD]())
+  - PAAD: `QGP-1`, [`PANC-1 (commonly-used)`](), `SW_1990`, `KCI-MOH1`
 
+- __Prostatic cancer__ ([PRAD]())
+  - PRAD: `VCaP`, [`PC-3 (commonly-used)`](), `NCI-H660`, `22Rv1`
 
+- __Melanoma__ ([SKCM]()
+  - SKCM: `COLO_792`, `RVH-421`, `MEL-HO`, `Hs_839_T`, `Malme-3M`
 
+- __Stomach cancer__ ([STAD]())
+  - Diffuse: `GCIY`, `NUGC-3`, `NUGC-4`
+  - Mucinous: `ECC10`, `HuG1-N`, `KE-39`, `MKN1`, `RERF-GC-1B`
+  - Tubular: `NCI-N87`, `NUGC-4`, `SH-10-TC`, `ECC10`
 
+- __Thyroid cancer__ ([THCA]())
+  - Classical/usual: `TT`, `FTC238`, `ML-1`, `FTC-133`
+  - Follicular: `TT`, `FTC-133`, `FTC238`
+  - Tall cell: `CGTH-W-1`
 
-
-
-
+- __Endometrium cancer__
+  - Endometrioid ([UCEC]()): `MFE-280`, `EFE-184`, `KLE`, `MFE-319`
+  - Serous ([UCEC]()): `MFE-280`, `EFE-184`, `SNU-1077`, `KLE`
+  - Mixed ([UCEC]()): `HEC-265`
+  - Uterine carcinosarcoma ([UCS]()): `EFE-184`, `KLE`, `MFE-280`
 
 
 
