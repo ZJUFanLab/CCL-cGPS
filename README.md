@@ -12,13 +12,13 @@ For each tumor subtype, we suggest several cancer cell lines that mimic clinical
 
 - __Bladder cancer__ ([BLCA]())
   - Non-papillary: `SCaBER`, `HT-1197`, `UM-UC-3`, `SW-1710`, `VM-CUB1`
-  - Papillary: [`RT4`(commonly-used)](), `VM-CUB1`, `RT112_84`, `SW_780`
+  - Papillary: [`RT4 (commonly-used)`](), `VM-CUB1`, `RT112_84`, `SW_780`
 
 - __Breast cancer__ ([BRCA]())
   - Infiltrating ductal: `HCC2218`, `HCC1428`, `HCC2157`, `HCC1599`, `ZR-75-30`
   - Infiltrating lobular: `UACC-812`, `CAL-148`, `YMB-1`, `ZR-75-1`, `ZR-75-30`
   - ER+: `HCC2218`, `HCC1428`, `ZR-75-30`, `MDA-MB-134-VI`, `CAL-148`
-  - HER2+: `SK-BR-3`, `HCC202`
+  - HER2+: `SK-BR-3(commonly-used)`, `HCC202`
   - Triple negative: `HCC1599`, `HCC2157`, `HCC1569`, `CAL-85-1`, `HCC1143`
 
 - __Bile duct cancer__ ([CHOL]())
