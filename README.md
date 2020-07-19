@@ -69,7 +69,7 @@ For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic c
 - __Prostatic cancer__ ([PRAD](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
   - PRAD: `VCaP`, [`PC-3` (commonly-used)](https://github.com/ZJUFanLab/CCL-cGPS/wiki/Commonly-used-cancer-cell-line), `NCI-H660`, `22Rv1`
 
-- __Melanoma__ ([SKCM](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA))
+- __Melanoma__ ([SKCM](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
   - SKCM: `COLO_792`, `RVH-421`, `MEL-HO`, `Hs_839_T`, `Malme-3M`
 
 - __Stomach cancer__ ([STAD](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
