@@ -69,7 +69,7 @@ For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic c
 - __Prostatic cancer__ ([PRAD](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
   - PRAD: `VCaP`, [`PC-3` (commonly-used)](https://github.com/ZJUFanLab/CCL-cGPS/wiki/Commonly-used-cancer-cell-line), `NCI-H660`, `22Rv1`
 
-- __Melanoma__ ([SKCM](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA))
+- __Melanoma__ ([SKCM](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
   - SKCM: `COLO_792`, `RVH-421`, `MEL-HO`, `Hs_839_T`, `Malme-3M`
 
 - __Stomach cancer__ ([STAD](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
@@ -89,7 +89,7 @@ For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic c
   - Uterine carcinosarcoma ([UCS](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA))): `EFE-184`, `KLE`, `MFE-280`
 
 # Download
-- Basic intormation of cancer cell lines in ([CCLE](https://portals.broadinstitute.org/ccle)) and tumor patients in ([TCGA](https://portal.gdc.cancer.gov/)) can be downloaded in[`data/`](https://github.com/ZJUFanLab/CCL-cGPS/tree/master/data) 
+- Basic information of cancer cell lines in ([CCLE](https://portals.broadinstitute.org/ccle)) and tumor patients in ([TCGA](https://portal.gdc.cancer.gov/)) can be downloaded in[`data/`](https://github.com/ZJUFanLab/CCL-cGPS/tree/master/data) 
 - Gene expression profiles of cancer cell lines and tumor patients can be downloaded in the [release](https://github.com/ZJUFanLab/CCL-cGPS/releases) page.
 - Similarity ranking of cell lines for each tumor subtype based on Kolmogorov-Smirnov statistic can be downloaded in in[`R/`](https://github.com/ZJUFanLab/CCL-cGPS/tree/master/R)
 
