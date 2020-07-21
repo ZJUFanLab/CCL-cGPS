@@ -26,7 +26,7 @@ For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic c
 - __Colorectal cancer__ ([COADREAD](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
   - Colon adenocarcinoma ([COAD](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA))): `NCI-H747`, `LS123`, `SW1417`, `RCM-1`, `C2BBe1`
   - Colon mucinous adenocarcinoma: `CL-11`, `Hs_675_T`, `MDST8`
-  - Rectal adenocarcinoma ([READ](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)): `NCI-H747`, `SW1417`, `COLO-678`, `SW1463`, [`RCM-1` (commonly-used)](https://github.com/ZJUFanLab/CCL-cGPS/wiki/Commonly-used-cancer-cell-line)
+  - Rectal adenocarcinoma ([READ](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA))): `NCI-H747`, `SW1417`, `COLO-678`, `SW1463`, [`RCM-1` (commonly-used)](https://github.com/ZJUFanLab/CCL-cGPS/wiki/Commonly-used-cancer-cell-line)
   - KRAS mutated: `HCC-56`, `LS123`, `SW1463`, `SW948`, `COLO-678`
 
 - __Esophagus cancer__ ([ESCA](https://github.com/ZJUFanLab/CCL-cGPS/wiki/The-Cancer-Genome-Atlas-(TCGA)))
