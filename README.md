@@ -90,9 +90,9 @@ For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic c
 
 # Download
 - Basic information of cancer cell lines in ([CCLE](https://portals.broadinstitute.org/ccle)) and tumor patients in ([TCGA](https://portal.gdc.cancer.gov/)) can be downloaded in[`data/`](https://github.com/ZJUFanLab/CCL-cGPS/tree/master/data) 
-- Gene expression profiles of cancer cell lines and tumor patients can be downloaded in the [release](https://github.com/ZJUFanLab/CCL-cGPS/releases) page.
+- Gene expression profiles of cancer cell lines and tumor patients can be downloaded in the [releases](https://github.com/ZJUFanLab/CCL-cGPS/releases) page.
 - Similarity ranking of cell lines for each tumor subtype based on Kolmogorov-Smirnov statistic can be downloaded in in[`R/`](https://github.com/ZJUFanLab/CCL-cGPS/tree/master/R)
-
+- RNA-seq data of RT4 cell line treated with control, mebendazole and digitoxin with three replicates can be download in the [releases](https://github.com/ZJUFanLab/CCL-cGPS/releases) page.
 
 
 # About
