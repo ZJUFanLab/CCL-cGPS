@@ -6,6 +6,11 @@ Selecting appropriate cell lines to represent a disease is crucial for the succe
 
 <img src='https://github.com/ZJUFanLab/CCL-cGPS/blob/master/img/tumor.png' width = "600" height = "600"> 
 
+# Cite
+[![DOI: 10.1016/j.isci.2020.101748](https://img.shields.io/badge/DOI-10.1016%2Fj.isci.2020.101748-brightgreen)](https://doi.org/10.1016/j.isci.2020.101748)
+
+Shao et al., A clinical genomics-guided prioritizing strategy enables selecting proper cancer cell lines for biomedical research, iScience (2020), [doi:10.1016/j.isci.2020.101748](https://doi.org/10.1016/j.isci.2020.101748).
+
 # Detail
 For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic clinical tumor patients.
 
@@ -96,8 +101,7 @@ For each tumor subtype, CCL-cGPS suggests several cancer cell lines that mimic c
 
 
 # About
-
-CCL-cGPS manuscript is under review. For more information, please visit our website [tcm.zju.edu.cn/cgps](http://tcm.zju.edu.cn/cgps/). Should you have any questions, please contact Xin Shao at xin_shao@zju.edu.cn
+CCL-cGPS repository was developed by Xin Shao. Should you have any questions, please contact Xin Shao at xin_shao@zju.edu.cn. For more information, please refer to our published paper [10.1016/j.isci.2020.101748](https://doi.org/10.1016/j.isci.2020.101748) or visit our website [tcm.zju.edu.cn/cgps](http://tcm.zju.edu.cn/cgps/). 
 
 
 
